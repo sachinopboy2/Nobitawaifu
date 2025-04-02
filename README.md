@@ -18,7 +18,7 @@ Welcome to **Wafu Catcher Bot**! A fun and interactive bot that lets you **colle
 
 ### **Step 1: Clone the Repository**
 ```sh
-git clone https://github.com/powerfulboys123/NoxxWaifu.git
+git clone https://github.com/powerfulboys123/NoxxWaifu
 cd NoxxWaifu
 
 Step 2: Install Dependencies
